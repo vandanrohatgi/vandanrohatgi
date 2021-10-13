@@ -1,5 +1,16 @@
-### Hi there 👋
+### How YOU doin? :grin:
 
+My name is Vandan and I'm currently pursuing my B.Tech in Information Technology. I am passionate about 2 things:
+
+- Docker :whale:
+- Cyber security :lock: 
+- exploring new stuff 
+
+I mostly use github to post my [blogs](https://vandanrohatgi.github.io) along with my projects or any other code that I think is interesting in the slightest.
+
+Take a look around! Vandan out!
+
+![run away](https://media.giphy.com/media/G3Wfea8vbpQK4/giphy.gif)
 <!--
 **vandanrohatgi/vandanrohatgi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
