@@ -8,7 +8,7 @@ My name is Vandan and I'm currently pursuing my B.Tech in Information Technology
 
 I mostly use github to post my [blogs](https://vandanrohatgi.github.io) along with my projects or any other code that I think is interesting in the slightest.
 
-Take a look around! Vandan out!
+Take a look around... Vandan out!
 
 ![run away](https://media.giphy.com/media/G3Wfea8vbpQK4/giphy.gif)
 <!--
