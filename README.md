@@ -3,8 +3,8 @@
 My name is Vandan and I'm currently pursuing my B.Tech in Information Technology. I am passionate about 2 things:
 
 1. Docker :whale:
-2. Cyber security :lock: 
-2.5 exploring new stuff 
+2. Cyber security :lock:
+3. exploring new stuff 
 
 I mostly use github to post my [blogs](https://vandanrohatgi.github.io) along with my projects or any other code that I think is interesting in the slightest.
 
