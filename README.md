@@ -1,10 +1,17 @@
-### How YOU doin? :grin:
+### Hey
 
-My name is Vandan and I'm currently pursuing my B.Tech in Information Technology. I am passionate about 2 things:
+My name is Vandan and I'm an engineering undergraduate. Along with math I'm into 2 things:
 
-1. Docker :whale:
+1. Container Tech :whale:
 2. Cyber security :lock:
-3. exploring new stuff 
+3. Human psychology :brain:
+4. exploring new stuff :world_map:
+
+###### ~~(yes I wrote I'm into math just for the joke. I'm terrible at it)~~
+
+![Vandan’ GitHub stats](https://github-readme-stats.vercel.app/api?username=vandanrohatgi&theme=synthwave&show_icons=true&count_private=true “Vandan’ GitHub Stats”)
+
+! [Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanrohatgi&theme=synthwave “Andres’ Top Languages Card”)
 
 I mostly use github to post my [blogs](https://vandanrohatgi.github.io) along with my projects or any other code that I think is interesting in the slightest.
 
