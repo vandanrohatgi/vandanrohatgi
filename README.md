@@ -11,7 +11,7 @@ My name is Vandan and I'm an engineering undergraduate. Along with math I'm into
 
 ![Vandan's github stats](https://github-readme-stats.vercel.app/api?username=vandanrohatgi)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanrohatgi&layout=compact&hide=scss&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vandanrohatgi&layout=compact&hide=scss,css&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 I mostly use github to post my [blogs](https://vandanrohatgi.github.io) along with my projects or any other code that I think is interesting in the slightest.
 
