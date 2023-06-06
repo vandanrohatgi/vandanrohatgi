@@ -2,6 +2,8 @@
 
 I'm Vandan.
 
+(Why am I even flexing my github stats if they're just at grade B?!)
+
 
 ![Vandan's github stats](https://github-readme-stats.vercel.app/api?username=vandanrohatgi)
 
